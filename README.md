@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Minh</h1>
-<h3 align="center">A passionate full-stack developer from Czech</h3>
+<h1 align="center">Hi 👋, I'm Minh 🦆</h1>
+<h3 align="center">A passionate full-stack developer from Czech/Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duckvang&label=Profile%20views&color=0e75b6&style=flat" alt="duckvang" /> </p>
 
-- 🔭 I’m currently working on [multiplayer game on browser](https://github.com/DuckVang/STP-Game)
+- 🤷‍♂️ I’m currently working on [multiplayer game on browser](https://github.com/DuckVang/STP-Game)
 
-- 🌱 I’m currently learning **Three.js, Vue, Next.js**
+- 🙈 I’m currently learning **Three.js, Vue, Next.js**
 
-- 📫 How to reach me **nducminh002@gmail.com**
+- 🎷 How to reach me **nducminh002@gmail.com**
+
+- 🫥 Fun fact **Nothing start with "n" and end with "g"**
 
 
 
