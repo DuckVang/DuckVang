@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duckvang&label=Profile%20views&color=0e75b6&style=flat" alt="duckvang" /> </p>
 
-- 🤷‍♂️ I’m currently working on [multiplayer game on browser](https://github.com/DuckVang/STP-Game)
+- 🤷‍♂️ I’m currently working on [multiplayer game](https://github.com/DuckVang/STP-Game)
 
 - 🙈 I’m currently learning **Three.js, Vue, Next.js**
 
