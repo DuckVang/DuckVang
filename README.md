@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh 🦆</h1>
-<h3 align="center">A passionate full-stack developer from Czech/Vietnam</h3>
+<h3 align="center">A full-stack developer from Czech/Vietnam</h3>
 
 
 - 🤷‍♂️ I’m currently working on [multiplayer game](https://github.com/DuckVang/STP-Game)
